@@ -7,3 +7,4 @@
 
 ## Structure patterns
 - Adapter
+- Decorator
