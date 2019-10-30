@@ -4,7 +4,10 @@
 - Factory
 - Abstract Factory
 - Singleton
+- Builder
+- Prototype
 
 ## Structure patterns
 - Adapter
 - Decorator
+- Bridge
